@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book>
+	<isbn>123</isbn>
+	<titulo>Perico</titulo>
+	<autor>Paco</autor>
+	<editorial>UnSaludo</editorial>
+	<descripcion>Muy bueno</descripcion>
+	<fechaPublicacion> 20/05/2014</fechaPublicacion>
+	<precio>20</precio>
+	<stock>20</stock>
+	<genero>1</genero>
+</book>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<book>
+	<codigo>5</codigo>
+	<genero>Accion</genero>
+</book>
